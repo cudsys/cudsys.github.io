@@ -5,6 +5,14 @@
 layout: home
 title: Hailey's Soapbox
 ---
+<head>
+<meta property="og:title" content="Hailey's Soapbox" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://cudsys.github.io" />
+<meta property="og:image" content="https://cudsys.github.io/assets/img/hailey.png" />
+<meta property="og:description" content="my very own website/blog! :D" />
+<meta name="theme-color" content="#00FFFF">
+</head>
 ## Hi there!
 Welcome to my website/blog! I don't know exactly what to put on this homepage yet, but go check out these posts:
 ## Latest posts
