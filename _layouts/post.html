@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body class="markdown-body">
+    <h1>{{ site.title }}</h1>
+    {% include navigation.html %}
+    <h2>{{ page.title }}</h2>
+    <p>
+      {{ page.date | date_to_string }}
+    </p>
+    {% include paginate.html %}
+    <div class="markdown-body">
+      {{ content }}
+    </div>
+    {% include paginate.html %}
+  </body>
+</html>

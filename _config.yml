@@ -1,0 +1,7 @@
+title: Hailey's Soapbox
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the part of the internet where I free talk about what's on my mind without running the risk of losing my sanity on websites like Twitter/X. I also have a cohost, but to be honest I might just use this website.
+birthdate: 2023-12-22 12:43:23 +1000
+
+plugins:
+  - jekyll-feed

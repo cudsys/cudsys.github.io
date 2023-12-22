@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about
+- name: Posts
+  link: /posts
+- name: Hailey's Aesop
+  link: https://cudsys.github.io/haesop/
