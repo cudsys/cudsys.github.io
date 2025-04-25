@@ -93,14 +93,14 @@ body {
 
 #statuscafe {
   padding: .5em;
-  background-color: azure;
-  border: 1px solid midnightblue;
+  background-color: #152852;
 }
 #statuscafe-username {
     margin-bottom: .5em;
 }
 #statuscafe-content {
     margin: 0 1em 0.5em 1em;
+    color: var(--text)
 }
 
 
