@@ -13,6 +13,7 @@ title: Hailey's Soapbox
 <meta property="og:description" content="my very own website/blog! :D" />
 <meta name="theme-color" content="#00FFFF">
 </head>
+
 ## Hi there!
 Welcome to my website/blog! I don't know exactly what to put on this homepage yet, but go check out these posts:
 ## Latest posts
@@ -20,5 +21,8 @@ Welcome to my website/blog! I don't know exactly what to put on this homepage ye
 {% for post in site.posts limit:10 %}
 <a href="{{ post.url }}">**{{ post.title }}**</a> *{{ post.date | date_to_string }}*
 {% endfor %}
+
 ## Status
 <div id="statuscafe"><div id="statuscafe-username"></div><div id="statuscafe-content"></div></div><script src="https://status.cafe/current-status.js?name=cudsys" defer></script>
+
+> Source: [status.cafe](https://status.cafe/users/cudsys)
