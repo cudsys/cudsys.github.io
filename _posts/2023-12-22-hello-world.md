@@ -1,8 +1,10 @@
 ---
 title: "And we're live!"
+description: "oh hey! it's the first post! too bad i'm not with my partner anymore..."
 layout: post
 date: 2023-12-22 15:42:00 +1000
-categories: legacy helloworld
+categories: text helloworld
+tags: legacy
 ---
 aa
 

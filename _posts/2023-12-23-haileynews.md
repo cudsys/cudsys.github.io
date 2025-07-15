@@ -1,9 +1,10 @@
 ---
 title: "Hailey News #1 - An amazing end-of-year for gamers"
+description: "the first and (currently) only issue of a series of posts i wanted to do"
 layout: post
 date: 2023-12-23 13:02:00 +1000
-categories: legacy news
-tags: gaming geometrydash gd
+categories: text news
+tags: legacy gaming geometrydash gd
 ---
 Hello everyone and welcome to Hailey News, your number one source for news delievered in a unique and nice way! Along with my other kinds of posts, I want to do a regular news post every week or every so often at the very least. I'm not entirely sure exactly how I want to do it, but I'm sure I'll figure it out as I go along. So with that, let's get into our first story!
 
