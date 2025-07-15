@@ -3,12 +3,11 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: tiktok
+  icon: "fa-brands fa-tiktok"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: soundcloud
+  icon: "fa-brands fa-soundcloud"
 
 - type: rss
   icon: "fas fa-rss"
